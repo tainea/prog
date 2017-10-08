@@ -32,7 +32,7 @@ reste1 = float(montant % 10)
 nbDixEuro = int(montant // 10)
 
 reste2 = float(reste1 % 2)
-nbDeuxEuro = int(rest1 // 2)
+nbDeuxEuro = int(reste1 // 2)
 
 reste3 = float(reste2 % 1)
 nbUnEuro = int(reste2 // 1)
